@@ -22,7 +22,7 @@ This project is a YouTube clone that replicates the responsive user interface (U
 
 ## Notes
 
-- This YouTube clone project is created for learning purposes, showcasing responsive web design skills using HTML and CSS.
+- This YouTube clone project is created for learning purposes from Youtube (@greatStack:youtube Channel), showcasing responsive web design skills using HTML and CSS.
 
 - The project does not include any backend functionality or actual video playback.
 
@@ -32,5 +32,5 @@ This project is a YouTube clone that replicates the responsive user interface (U
 
 *This project is part of my portfolio to demonstrate my frontend web development skills.
 
-*Contact me for any questions or job opportunities: your.email@example.com*
+*Contact me for any questions or job opportunities: ashishthotwe20@gmail.com*
 
